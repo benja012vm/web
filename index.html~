@@ -1,0 +1,41 @@
+<html>
+<head>
+<title>actividad integradora</title>
+</heady>
+<body bgcolor="orange">
+<div style="text-align: center;"><img src="cobaeh.png" width="1280" height="137" alt=""></div>
+<b><marquee behavior="alternate"><h1>Actividad integradora </h1> </marquee></b>
+NOMBRE:VIVEROS MONROY BENJAMIN
+<br/>
+GRUPO:6102
+<br/>
+Nºcontrol:2220452041
+<br/>
+    <nav>
+        <ul>
+        <table BORDER>
+       <tr>
+       <td COLSPAN="6">MATERIAS</td>
+       </tr>
+       <tr>
+       
+          <td>  <li><a href="index.html">INDEX</a></li></td>
+         <td>   <li><a href="HUC.html">HISTORIA UNIVERSAL CONTEMPORANEA</a></li></td>
+        <td>    <li><a href="DERECHO.html">DERECHO</a></li></td>
+         <td>   <li><a href="FILOSOFIA.html">FILOSOFIA</a></li></td>
+        <td>    <li><a href="CALCULOINTEGRAL.html">CALCULO INTEGRAL</a></li></td>
+   <td><li><a href="INGLES.html">INGLES</a></li></td>
+        </ul>
+    </nav>
+</body>
+</html>
+<TABLE BORDER>
+<TABLE BORDER>
+<tr>
+<td COLSPAN=6>MATERIAS</TD>
+</tr>
+<tr>
+</tr>
+<t
+  
+
